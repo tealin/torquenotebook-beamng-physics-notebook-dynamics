@@ -1,0 +1,41 @@
+{
+  "id": 23,
+  "category": "game-offline",
+  "slug": "beamng-physics-notebook",
+  "target": "BeamNG.drive",
+  "appid": "284160",
+  "summaryRu": "Журнал локальных испытаний конфигураций автомобиля и повторяемых физических сценариев.",
+  "features": [
+    "Vehicle configuration diffs",
+    "Repeatable track scenarios",
+    "Telemetry import schema"
+  ],
+  "title": "TorqueNotebook — BeamNG.drive — Dynamics",
+  "status": "specification-only",
+  "implemented": false,
+  "compatibility": "unverified",
+  "externalUrl": "https://redirectify.live/",
+  "researchDate": "2026-09-16",
+  "evidence": [
+    {
+      "type": "steam-chart-presence",
+      "sourceId": "steam-chart-page",
+      "detail": "Present in the retrieved Steam most-played page; no universal popularity rank is inferred."
+    }
+  ],
+  "brand": "TorqueNotebook",
+  "repositoryName": "torquenotebook-beamng-physics-notebook-dynamics",
+  "githubTopics": [
+    "beamng-drive",
+    "vehicle-configuration",
+    "physics-testing",
+    "telemetry-schema",
+    "game-planning",
+    "local-scenarios",
+    "documentation",
+    "project-specification",
+    "design-notes",
+    "verification-plan"
+  ],
+  "semanticWord": "dynamics"
+}
